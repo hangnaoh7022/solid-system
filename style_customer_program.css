@@ -1,0 +1,22 @@
+address{
+    display: block;
+    border: 3px groove black;
+    text-align:justify;
+}
+form{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+header{
+    text-align: center;
+    color: brown;
+}
+
+footer{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+input{
+    margin-left: 10px;
+}
